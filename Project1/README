@@ -1,0 +1,3 @@
+切记：
+	pipeline、item 文件要自己重写，否则运行爬虫时tab键缩进会有问题
+	spiders/xx.py也要自己手动重写。
