@@ -1,4 +1,5 @@
 # coding: utf-8
+#this is new file
 from urllib import request, parse
 from http import cookiejar
 import time
@@ -45,4 +46,3 @@ if __name__=='__main__':
         print(item.)
     time.sleep(2)
     getHomePage()
-
